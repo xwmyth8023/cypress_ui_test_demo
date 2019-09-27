@@ -1,5 +1,11 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "topics":{
+    "ttc":"getting-pregnant",
+    "pregnancy":{
+      "firstTrimester":"first-trimester",
+      "secondTrimester":"second-trimester",
+      "thirdTrimester":"third-trimester"
+    },
+    "parenting":"parenting" 
+  }
 }

@@ -1,0 +1,10 @@
+{
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "TheBump.com - Pregnancy, Parenting and Baby Information"
+  },
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools."
+  }
+}
