@@ -6,8 +6,9 @@ describe('SEO Check', ()=>{
   before(()=>{
     cy.fixture('example').then(json =>{
       data=json
-      cy.visit(data.topics.ttc)
+      cy.visit(`/${data.topics.ttc}`)
     })
+    
   })
 
   it('test fixture',()=>{
