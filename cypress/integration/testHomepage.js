@@ -23,7 +23,16 @@ describe('SEO Check', ()=>{
     cy.get(data.description.locator)
       .invoke('attr','content')
       .then((content)=>{
-        expect(content).to.equal('Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools.')
+        expect(content).to.equal(data.description.content)
       })
+  })
+
+  it('check og title',()=>{
+    // cy.get(data.ogTitle.locator)
+    //   .invoke('attr','content')
+    //   .then((content)=>{
+    //     expect(content).to.equal(data.description.content)
+    //   })
+    cy.checkSEO(data,'ogTitle')
   })
 })
