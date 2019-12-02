@@ -23,3 +23,11 @@
 //
 // -- This is will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('checkSEO',(data,tag)=>{
+  cy.get(data[tag].locator)
+    .invoke('attr','content')
+    .then((content)=>{
+      expect(content).to.equal(data[tag].content)
+    })
+})
