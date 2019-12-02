@@ -1,12 +1,12 @@
 { 
-  "title":"TheBump.com - Pregnancy, Parenting and Baby Information",
+  "title":"The Latest Pregnancy, Parenting, and Baby News",
   "ogTitle": {
     "locator": "meta[property='og:title']",
-    "content": "TheBump.com - Pregnancy, Parenting and Baby Information"
+    "content": "The Latest Pregnancy, Parenting, and Baby News"
   },
   "ogDescription":{
     "locator":"meta[property='og:description']",
-    "content":"Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools."
+    "content":"Get pregnancy information, baby advice and parenting tips at TheBump.com. Join our parenting forums and use our pregnancy tools."
   },
   "ogImage":{
     "locator":"meta[property='og:image']",
@@ -14,7 +14,7 @@
   },
   "ogUrl":{
     "locator":"meta[property='og:url']",
-    "content":"https://www.thebump.com/"
+    "content":"https://www.thebump.com/news"
   },
   "ogType":{
     "locator":"meta[property='og:type']",
@@ -22,7 +22,7 @@
   },
   "description": {
     "locator": "meta[name=description]",
-    "content": "Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools."
+    "content": "Get pregnancy information, baby advice and parenting tips at TheBump.com. Join our parenting forums and use our pregnancy tools."
   },
   "keyWors": {
     "locator":"meta[name=keywords]",

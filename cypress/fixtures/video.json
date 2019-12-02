@@ -1,12 +1,12 @@
 { 
-  "title":"TheBump.com - Pregnancy, Parenting and Baby Information",
+  "title":"Pregnancy Videos – TheBump.com",
   "ogTitle": {
     "locator": "meta[property='og:title']",
-    "content": "TheBump.com - Pregnancy, Parenting and Baby Information"
+    "content": "Pregnancy Videos – TheBump.com"
   },
   "ogDescription":{
     "locator":"meta[property='og:description']",
-    "content":"Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools."
+    "content":"Watch TheBump.com’s pregnancy videos covering everything from how to get pregnant to finding the right baby name."
   },
   "ogImage":{
     "locator":"meta[property='og:image']",
@@ -14,7 +14,7 @@
   },
   "ogUrl":{
     "locator":"meta[property='og:url']",
-    "content":"https://www.thebump.com/"
+    "content":"https://www.thebump.com/videos"
   },
   "ogType":{
     "locator":"meta[property='og:type']",
@@ -22,11 +22,10 @@
   },
   "description": {
     "locator": "meta[name=description]",
-    "content": "Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools."
+    "content": "Watch TheBump.com’s pregnancy videos covering everything from how to get pregnant to finding the right baby name."
   },
   "keyWors": {
     "locator":"meta[name=keywords]",
     "content":"TheBump.com - Pregnancy, Parenting and Baby Information, Baby Names, Pregnancy Information, Parenting Tips, Parenting Forums, Baby Names, Pregnancy Information, Parenting Tips, Parenting Advice, Baby Advice"
   }
-
 }
