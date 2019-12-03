@@ -1,0 +1,31 @@
+{ 
+  "title":"Pregnancy",
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "Pregnancy"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"TheBump.com offers all types of pregnancy information including signs, prenatal care, maternity fashion and much more."
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://s3.amazonaws.com/bump-assets/desktop-web/social/tb-default-fb-avatar.jpg"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/topics/pregnancy"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  },
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "TheBump.com offers all types of pregnancy information including signs, prenatal care, maternity fashion and much more."
+  },
+  "keyWors": {
+    "locator":"meta[name=keywords]",
+    "content":"Pregnancy, "
+  }
+}

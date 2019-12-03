@@ -1,0 +1,32 @@
+{ 
+  "title":"Ovulation",
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "Ovulation"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"Learn how to recognize the common signs of ovulation. If you're trying to conceive but don't know how to tell when ovulation occurs, TheBump can help. Learn what ovulation is and how to recognize its signs. Plus, find everything else you need to know about getting pregnant, pregnancy tests, and what to expect at your preconception checkups."
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://s3.amazonaws.com/bump-assets/desktop-web/social/tb-default-fb-avatar.jpg"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/topics/getting-pregnant-ovulation"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  },
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "Learn how to recognize the common signs of ovulation. If you're trying to conceive but don't know how to tell when ovulation occurs, TheBump can help. Learn what ovulation is and how to recognize its signs. Plus, find everything else you need to know about getting pregnant, pregnancy tests, and what to expect at your preconception checkups. "
+  },
+  "keyWors": {
+    "locator":"meta[name=keywords]",
+    "content":"Getting Pregnant, Ovulation"
+  }
+
+}
