@@ -3,7 +3,7 @@
 const data = ["title","description","keyWords","ogTitle","ogDescription","ogImage","ogUrl","ogType"]
 
 describe('SEO Check', ()=>{
-  // let data = 
+   
   let jsonData
 
   before(()=>{
