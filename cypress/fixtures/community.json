@@ -1,8 +1,8 @@
 { 
-  "title":"Pregnancy Message Boards - Baby Forums ",
+  "title":"Pregnancy Message Boards - Baby Forums",
   "ogTitle": {
     "locator": "meta[property='og:title']",
-    "content": "Pregnancy Message Boards - Baby Forums "
+    "content": "Pregnancy Message Boards - Baby Forums"
   },
   "ogDescription":{
     "locator":"meta[property='og:description']",
@@ -22,11 +22,11 @@
   },
   "description": {
     "locator": "meta[name=description]",
-    "content": "Pregnancy Message Boards - Connect with other moms and moms-to-be and share stories about pregnancy, giving birth, trying to conceive and more on TheBump.com. "
+    "content": "Pregnancy Message Boards - Connect with other moms and moms-to-be and share stories about pregnancy, giving birth, trying to conceive and more on TheBump.com."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
-    "content":"Pregnancy Message Boards - Baby Forums, pregnancy message boards, baby forums, pregnancy forums, baby message boards, giving birth message boards, trying to conceieve forums, thebump.com "
+    "content":"Pregnancy Message Boards - Baby Forums, pregnancy message boards, baby forums, pregnancy forums, baby message boards, giving birth message boards, trying to conceieve forums, thebump.com"
   }
 
 }

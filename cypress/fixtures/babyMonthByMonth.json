@@ -4,7 +4,7 @@
     "locator": "meta[name=description]",
     "content": "Learn about baby month by month including important baby milestones and development for baby's first year from birth to first birthday."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Baby Month-by-Month, baby, month-by-month"
   },

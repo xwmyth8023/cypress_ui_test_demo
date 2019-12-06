@@ -22,9 +22,9 @@
   },
   "description": {
     "locator": "meta[name=description]",
-    "content": "Learn how to recognize the common signs of ovulation. If you're trying to conceive but don't know how to tell when ovulation occurs, TheBump can help. Learn what ovulation is and how to recognize its signs. Plus, find everything else you need to know about getting pregnant, pregnancy tests, and what to expect at your preconception checkups. "
+    "content": "Learn how to recognize the common signs of ovulation. If you're trying to conceive but don't know how to tell when ovulation occurs, TheBump can help. Learn what ovulation is and how to recognize its signs. Plus, find everything else you need to know about getting pregnant, pregnancy tests, and what to expect at your preconception checkups."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Getting Pregnant, Ovulation"
   }

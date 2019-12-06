@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": " Use The Bump’s week-by-week pregnancy guide to learn about your pregnancy symptoms by week and see pregnancy week-by-week ultrasounds."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Pregnancy Week-by-Week, pregnancy week-by-week, about pregnancy, pregnancy by week, the weeks of pregnancy, pregnancy symptoms, fetal development, fetal growth, fetal size, baby development, prenatal development, being pregnant, prenatal growth and development, growth, size, development, pregnancy, symptoms"
   }

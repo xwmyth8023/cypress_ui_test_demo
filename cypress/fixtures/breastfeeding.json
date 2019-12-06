@@ -4,7 +4,7 @@
     "locator": "meta[name=description]",
     "content": "The information you need to know now when it comes to breastfeeding baby. get tips on prepping, pumping, managing feedings while traveling with your little one and much more."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Newborn & Baby, Breastfeeding"
   },

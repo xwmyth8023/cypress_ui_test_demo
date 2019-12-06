@@ -4,7 +4,7 @@
     "locator": "meta[name=description]",
     "content": "Track your toddler's developmental milestones with toddler month by month—from first steps to potty training, we cover everything to know about toddler's progress from 13-36 months."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Toddler Month-by-Month, toddler, month-by-month"
   },

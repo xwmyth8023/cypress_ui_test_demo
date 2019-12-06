@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": "Find out what types of symptoms you can expect in the first few months of pregnancy such as sleepiness, morning sickness, and sore breasts. Plus, get info on scheduling OB appointments and preparing to share your good news."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"First Trimester, "
   }

@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": "TheBump.com offers all types of pregnancy information including signs, prenatal care, maternity fashion and much more."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Pregnancy, "
   }

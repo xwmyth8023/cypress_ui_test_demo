@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": "Watch TheBump.com’s pregnancy videos covering everything from how to get pregnant to finding the right baby name."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"TheBump.com - Pregnancy, Parenting and Baby Information, Baby Names, Pregnancy Information, Parenting Tips, Parenting Forums, Baby Names, Pregnancy Information, Parenting Tips, Parenting Advice, Baby Advice"
   }

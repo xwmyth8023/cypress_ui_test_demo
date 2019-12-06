@@ -4,7 +4,7 @@
     "locator": "meta[name=description]",
     "content": "From handling tantrums to getting your tot to eat more veggies (trust us, there are ways), we'll help make that transition from baby to 'big kid' as smooth as possible."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"parenting tips, parenting advice, new parents, new mom, new dad, thebump.com, Parenting Tips, toddler"
   },

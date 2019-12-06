@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": " From infant car seats to strollers and baby video monitors to baby carriers, find the Best of Baby Awards product winners for 2019. See The Bump's best baby list."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"baby gear, baby registry, baby feeding, baby on-the-go, diapering, baby safety, healthy baby, maternity basics, baby toys, nursery, baby tech"
   }

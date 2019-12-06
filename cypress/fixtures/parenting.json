@@ -4,7 +4,7 @@
     "locator": "meta[name=description]",
     "content": "Parenting Tips - Get parenting tips and parenting advice for new parents on TheBump.com. Find answers to all your new parent questions from newborn baby and up. Learn how to be a great new mom or new dad."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Newborn & Baby, "
   },

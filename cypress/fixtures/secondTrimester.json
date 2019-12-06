@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": "The second trimester comes with many exciting milestones like feeling baby's first kicks, and welcome changes like getting some relief from morning sickness. Creating a baby registry, buying maternity clothes, and thinking about baby names are just a few of the fun tasks on your second trimester to-do list. Let us help you with everything you need to know about the 'honeymoon period' of pregnancy."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Second Trimester, "
   }

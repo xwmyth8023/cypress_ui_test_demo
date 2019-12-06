@@ -24,7 +24,7 @@
     "locator": "meta[name=description]",
     "content": "Getting Pregnant - TheBump.com has all the information you need on trying to conceive and getting pregnant. Find TTC information on TheBump.com."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"Getting Pregnant, "
   }

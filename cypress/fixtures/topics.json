@@ -16,7 +16,7 @@
     "locator":"meta[property='og:type']",
     "content":"article"
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"getting pregnant, pregnancy, parenting"
   }

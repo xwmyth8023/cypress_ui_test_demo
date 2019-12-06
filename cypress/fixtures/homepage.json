@@ -4,7 +4,7 @@
     "locator": "meta[name=description]",
     "content": "Get pregnancy information, baby advice and parenting tips at TheBump.com baby website. Create a baby registry and use our pregnancy tools."
   },
-  "keyWors": {
+  "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"TheBump.com - Pregnancy, Parenting and Baby Information, Baby Names, Pregnancy Information, Parenting Tips, Parenting Forums, Baby Names, Pregnancy Information, Parenting Tips, Parenting Advice, Baby Advice"
   },
