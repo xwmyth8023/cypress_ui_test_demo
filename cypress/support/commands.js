@@ -25,9 +25,13 @@
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
 Cypress.Commands.add('checkSEO',(data,tag)=>{
-  cy.get(data[tag].locator)
-    .invoke('attr','content')
-    .then((content)=>{
-      expect(content).to.equal(data[tag].content)
-    })
+  if (tag === 'title'){
+    cy.title().should('eq',data[tag])
+  }else {
+    cy.get(data[tag].locator)
+      .invoke('attr','content')
+      .then((content)=>{
+        expect(content).to.equal(data[tag].content)
+      })
+    }
 })

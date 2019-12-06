@@ -7,11 +7,11 @@ describe('SEO Check', ()=>{
   let jsonData
 
   before(()=>{
-    cy.fixture('homepage.json').then((json) => {
+    cy.fixture('news.json').then((json) => {
       jsonData = json
     })
     cy.viewport('macbook-15')
-    cy.visit('/')
+    cy.visit('/news')
     
   })
 
