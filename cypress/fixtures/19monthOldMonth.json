@@ -1,0 +1,31 @@
+{ 
+  "title":"19-Month-Old Development Milestones: Toddler Month by Month",
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "Get information on your 19-month-old's development, eating, sleep and behavior concerns. Find out what milestones your toddler will complete this month!"
+  },
+  "keyWords": {
+    "locator":"meta[name=keywords]",
+    "content":"19-Month Old Toddler - Toddler Month-by-Month, toddler, month-by-month"
+  },
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "19-Month-Old"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"Get information on your 19-month-old's development, eating, sleep and behavior concerns. Find out what milestones your toddler will complete this month!"
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://images.ctfassets.net/6m9bd13t776q/7MxQG7V27eGkY06g2igokw/c16fc8aa287cd86ba78ecd6fd9bb1dc6/toddler-month-19-train-2160x1200.jpg?q=75"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/toddler-month-by-month/19-month-old-month-old"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  }
+}

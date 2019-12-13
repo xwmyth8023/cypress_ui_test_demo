@@ -1,0 +1,31 @@
+{ 
+  "title":"8 Weeks Pregnant - Pregnancy Week-by-Week",
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "At 8 weeks pregnant, you are halfway through your first trimester. See an 8-week ultrasound and learn about pregnancy symptoms at 8 weeks."
+  },
+  "keyWords": {
+    "locator":"meta[name=keywords]",
+    "content":"TheBump.com - Pregnancy, Parenting and Baby Information, Baby Names, Pregnancy Information, Parenting Tips, Parenting Forums, Baby Names, Pregnancy Information, Parenting Tips, Parenting Advice, Baby Advice"
+  },
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "8 Weeks Pregnant"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"At 8 weeks pregnant, you are halfway through your first trimester. See an 8-week ultrasound and learn about pregnancy symptoms at 8 weeks."
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://media.front.xoedge.com/images/d83007fe-7998-4fb2-af44-40f5e82bfa6c"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/pregnancy-week-by-week/8-weeks-pregnant"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  }
+}
