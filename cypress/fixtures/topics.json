@@ -16,9 +16,17 @@
     "locator":"meta[property='og:type']",
     "content":"article"
   },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":""
+  },
   "keyWords": {
     "locator":"meta[name=keywords]",
     "content":"getting pregnant, pregnancy, parenting"
+  },
+  "description": {
+    "locator": "meta[name=description]",
+    "content": ""
   }
 
 }

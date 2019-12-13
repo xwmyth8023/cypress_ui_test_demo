@@ -22,7 +22,7 @@
   },
   "description": {
     "locator": "meta[name=description]",
-    "content": " Use The Bump’s week-by-week pregnancy guide to learn about your pregnancy symptoms by week and see pregnancy week-by-week ultrasounds."
+    "content": "Use The Bump’s week-by-week pregnancy guide to learn about your pregnancy symptoms by week and see pregnancy week-by-week ultrasounds."
   },
   "keyWords": {
     "locator":"meta[name=keywords]",

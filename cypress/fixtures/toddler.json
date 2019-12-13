@@ -2,7 +2,7 @@
   "title":"Your Toddler",
   "description": {
     "locator": "meta[name=description]",
-    "content": "From handling tantrums to getting your tot to eat more veggies (trust us, there are ways), we'll help make that transition from baby to 'big kid' as smooth as possible."
+    "content": "From handling tantrums to getting your tot to eat more veggies (trust us, there are ways), we'll help make that transition from baby to \"big kid\" as smooth as possible."
   },
   "keyWords": {
     "locator":"meta[name=keywords]",
@@ -14,7 +14,7 @@
   },
   "ogDescription":{
     "locator":"meta[property='og:description']",
-    "content":"From handling tantrums to getting your tot to eat more veggies (trust us, there are ways), we'll help make that transition from baby to 'big kid' as smooth as possible."
+    "content":"From handling tantrums to getting your tot to eat more veggies (trust us, there are ways), we'll help make that transition from baby to \"big kid\" as smooth as possible."
   },
   "ogImage":{
     "locator":"meta[property='og:image']",
