@@ -1,10 +1,9 @@
 /// <reference types="Cypress" />
 
-const data = ["title","description","keyWords","ogTitle","ogDescription","ogImage","ogUrl","ogType"]
-
 describe('SEO Check', ()=>{
    
   let jsonData
+  let checkItems = Cypress.config('checkItems')
 
   before(()=>{
     cy.fixture('pregnancyWeekByWeek.json').then((json) => {
@@ -15,7 +14,7 @@ describe('SEO Check', ()=>{
     
   })
 
-  data.forEach(item => {
+  checkItems.forEach(item => {
     it(`check ${item}`,() => {
       cy.checkSEO(jsonData,item)
     })

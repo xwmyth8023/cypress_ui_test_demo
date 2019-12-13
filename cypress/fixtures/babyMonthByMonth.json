@@ -2,7 +2,7 @@
   "title":"Baby Month By Month: Baby Milestones + Development",
   "description": {
     "locator": "meta[name=description]",
-    "content": "Learn about baby month by month including important baby milestones and development for baby's first year from birth to first birthday."
+    "content": "Learn about baby month by month including important baby milestones and development for baby's first year from birth to first birthday. "
   },
   "keyWords": {
     "locator":"meta[name=keywords]",
@@ -14,7 +14,7 @@
   },
   "ogDescription":{
     "locator":"meta[property='og:description']",
-    "content":"Learn about baby month by month including important baby milestones and development for baby's first year from birth to first birthday."
+    "content":"Learn about baby month by month including important baby milestones and development for baby's first year from birth to first birthday. "
   },
   "ogImage":{
     "locator":"meta[property='og:image']",

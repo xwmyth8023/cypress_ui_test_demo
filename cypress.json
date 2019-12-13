@@ -1,3 +1,4 @@
 {
-  "chromeWebSecurity":false
+  "chromeWebSecurity":false,
+  "checkItems": ["title","description","keyWords","ogTitle","ogDescription","ogImage","ogUrl","ogType"]
 }
