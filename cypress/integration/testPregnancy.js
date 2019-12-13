@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe('SEO Check', ()=>{
+describe('Pregnancy', ()=>{
    
   let jsonData
   let checkItems = Cypress.config('checkItems')
