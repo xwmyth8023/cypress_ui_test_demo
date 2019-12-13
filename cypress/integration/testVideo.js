@@ -11,7 +11,6 @@ describe('Videos', ()=>{
     })
     cy.viewport('macbook-15')
     cy.visit('/videos')
-    
   })
 
   checkItems.forEach(item => {
