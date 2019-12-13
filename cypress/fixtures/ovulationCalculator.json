@@ -1,0 +1,31 @@
+{ 
+  "title":"Ovulation Calculator",
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "Ovulation Calculator"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"Wondering how to calculate ovulation? Use The Bump’s ovulation calculator to track your cycle and know when you are most fertile."
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://static.thebump.com/shared-web/social/ovulation-calculator.jpg"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/ovulation-calculator"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  },
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "Wondering how to calculate ovulation? Use The Bump’s ovulation calculator to track your cycle and know when you are most fertile."
+  },
+  "keyWords": {
+    "locator":"meta[name=keywords]",
+    "content":"TheBump.com - Pregnancy, Parenting and Baby Information, Baby Names, Pregnancy Information, Parenting Tips, Parenting Forums, Baby Names, Pregnancy Information, Parenting Tips, Parenting Advice, Baby Advice"
+  }
+}

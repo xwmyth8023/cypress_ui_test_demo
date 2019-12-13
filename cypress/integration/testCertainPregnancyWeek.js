@@ -1,16 +1,16 @@
 /// <reference types="Cypress" />
 
-describe('Topics', ()=>{
+describe('Certain Pregnancy Week', ()=>{
    
   let jsonData
   let checkItems = Cypress.config('checkItems')
 
   before(()=>{
-    cy.fixture('topics.json').then((json) => {
+    cy.fixture('8weeksPregnant.json').then((json) => {
       jsonData = json
     })
     cy.viewport('macbook-15')
-    cy.visit('/topics')
+    cy.visit('/pregnancy-week-by-week/8-weeks-pregnant')
     
   })
 

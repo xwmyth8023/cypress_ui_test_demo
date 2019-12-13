@@ -1,0 +1,31 @@
+{ 
+  "title":"3-Month-Old Baby",
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "Get information on your 3-month-old's development, feeding and sleep concerns, and find out what milestones your baby will complete this month."
+  },
+  "keyWords": {
+    "locator":"meta[name=keywords]",
+    "content":"3-Month-Old Baby - Baby Month-by-Month, baby, month-by-month"
+  },
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "3 Month Old Baby – Baby Month by Month"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"Get information on your 3-month-old's development, feeding and sleep concerns, and find out what milestones your baby will complete this month."
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://images.ctfassets.net/6m9bd13t776q/4cOFFrxMrmiesWAy2GsMes/8f4da4b08a0891464e0268c7c82cf1dc/3-month-baby-activity-gym-2160x1200.png?q=75"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/baby-month-by-month/3-month-old-baby"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  }
+}

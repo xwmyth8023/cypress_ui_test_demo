@@ -1,0 +1,31 @@
+{ 
+  "title":"Best Baby List - 2019 Best of Baby",
+  "ogTitle": {
+    "locator": "meta[property='og:title']",
+    "content": "Best Baby List - 2019 Best of Baby"
+  },
+  "ogDescription":{
+    "locator":"meta[property='og:description']",
+    "content":"From infant car seats to strollers and baby video monitors to baby carriers, find the Best of Baby Awards product winners for 2019. See The Bump's best baby list."
+  },
+  "ogImage":{
+    "locator":"meta[property='og:image']",
+    "content":"https://static.thebump.com/shared-web/BoB/2017_Best_of_Baby_Hero-All.jpg"
+  },
+  "ogUrl":{
+    "locator":"meta[property='og:url']",
+    "content":"https://www.thebump.com/best-of-baby"
+  },
+  "ogType":{
+    "locator":"meta[property='og:type']",
+    "content":"article"
+  },
+  "description": {
+    "locator": "meta[name=description]",
+    "content": "From infant car seats to strollers and baby video monitors to baby carriers, find the Best of Baby Awards product winners for 2019. See The Bump's best baby list."
+  },
+  "keyWords": {
+    "locator":"meta[name=keywords]",
+    "content":"baby gear, baby registry, baby feeding, baby on-the-go, diapering, baby safety, healthy baby, maternity basics, baby toys, nursery, baby tech"
+  }
+}

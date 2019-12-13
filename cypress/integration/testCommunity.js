@@ -1,16 +1,16 @@
 /// <reference types="Cypress" />
 
-describe('Topics', ()=>{
+describe('Community', ()=>{
    
   let jsonData
   let checkItems = Cypress.config('checkItems')
 
   before(()=>{
-    cy.fixture('topics.json').then((json) => {
+    cy.fixture('community.json').then((json) => {
       jsonData = json
     })
     cy.viewport('macbook-15')
-    cy.visit('/topics')
+    cy.visit('/community')
     
   })
 
