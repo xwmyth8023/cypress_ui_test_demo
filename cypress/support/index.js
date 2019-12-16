@@ -22,5 +22,21 @@ import './commands'
 Cypress.on('uncaught:exception', (err, runnable) => {
   // returning false here prevents Cypress from
   // failing the test
-  return false
+  // return false
+  if (err.message.includes('Uncaught TypeError')){
+    return false
+  } else {
+    throw err
+  }
+})
+
+Cypress.on('fail', (err, runnable) => {
+  // returning false here prevents Cypress from
+  // failing the test
+  // return false
+  if (err.message.includes('Uncaught TypeError')){
+    return false
+  } else {
+    throw err
+  }
 })
