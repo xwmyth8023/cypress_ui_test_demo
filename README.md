@@ -1,5 +1,5 @@
-# cypress_ui_test_demo
-a demo of ui test using cypress
+# The Bump web SEO data check
+This is for tb-web SEO data check
 
 ### Install dependcies
 `npm install`
